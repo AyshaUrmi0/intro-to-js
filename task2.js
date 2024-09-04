@@ -1,5 +1,6 @@
 
 
+// Task: Write a program to calculate the average marks of Mathematics, Bangla, Physics, Chemistry, and Biology.
 
 
 let math = 75.25;
